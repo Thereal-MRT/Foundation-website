@@ -1,5 +1,5 @@
 # Foundation-website
-php website that people to apply as beneficiary 
+php based Foudation website thatallow people to apply as a beneficiary.
 Admin Login Details
 Username: Admin
 Passsword: Test@123
